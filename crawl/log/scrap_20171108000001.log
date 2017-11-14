@@ -1,0 +1,97 @@
+[2017-11-08 00:00:01] Scraping start
+[2017-11-08 00:00:01] Connected Elasticsearch server
+[2017-11-08 00:00:02] Opened PhantomJS webdriver
+[2017-11-08 00:00:03] Complete to bring blogs seed page
+[2017-11-08 00:00:04] Complete to move to travel category
+[2017-11-08 00:00:04] Complete to move to domestic travel page
+[2017-11-08 00:00:04] Start to parse each posts
+[2017-11-08 00:00:04] Click the page - 1page
+[2017-11-08 00:00:06] Complate to parse - phr1211_221134400570
+[2017-11-08 00:00:06] Error - Already exists document
+[2017-11-08 00:00:06] Complate to parse - jejujcnc_221134444726
+[2017-11-08 00:00:06] Error - Already exists document
+[2017-11-08 00:00:07] Complate to parse - jykim575_221134443194
+[2017-11-08 00:00:07] Error - Already exists document
+[2017-11-08 00:00:07] Complate to parse - andante-8_221134442543
+[2017-11-08 00:00:07] Error - Already exists document
+[2017-11-08 00:00:07] Complate to parse - fhcp_221134438718
+[2017-11-08 00:00:07] Error - Already exists document
+[2017-11-08 00:00:07] Complate to parse - danbee928_221134418181
+[2017-11-08 00:00:07] Error - Already exists document
+[2017-11-08 00:00:07] Complate to parse - jangu74_221134696330
+[2017-11-08 00:00:08] Complate to percolate - jangu74_221134696330
+[2017-11-08 00:00:08] Complate to parse - jangu74_221134650012
+[2017-11-08 00:00:08] Complate to percolate - jangu74_221134650012
+[2017-11-08 00:00:08] Complate to parse - yo__ol_221134868105
+[2017-11-08 00:00:08] Complate to percolate - yo__ol_221134868105
+[2017-11-08 00:00:09] Complate to parse - mion24_221134864309
+[2017-11-08 00:00:09] Complate to percolate - mion24_221134864309
+[2017-11-08 00:00:09] Click the page - 2page
+[2017-11-08 00:00:11] Complate to parse - llovering_221134862425
+[2017-11-08 00:00:11] Error - Already exists document
+[2017-11-08 00:00:11] Complate to parse - rhdiddl1124_221134862101
+[2017-11-08 00:00:11] Complate to percolate - rhdiddl1124_221134862101
+[2017-11-08 00:00:11] Complate to parse - kimbestone_221134842386
+[2017-11-08 00:00:11] Complate to percolate - kimbestone_221134842386
+[2017-11-08 00:00:11] Complate to parse - brownno1_221134829086
+[2017-11-08 00:00:11] Error - Already exists document
+[2017-11-08 00:00:12] Complate to parse - rokrok835_221134824111
+[2017-11-08 00:00:12] Error - Already exists document
+[2017-11-08 00:00:12] Complate to parse - wj-story_221134769497
+[2017-11-08 00:00:12] Error - Already exists document
+[2017-11-08 00:00:12] Complate to parse - 5490ljy_221134467923
+[2017-11-08 00:00:12] Error - Already exists document
+[2017-11-08 00:00:12] Complate to parse - beautyd74_221134738051
+[2017-11-08 00:00:12] Error - Already exists document
+[2017-11-08 00:00:12] Complate to parse - realangel4_221134714902
+[2017-11-08 00:00:12] Error - Already exists document
+[2017-11-08 00:00:12] Complate to parse - sygj1531_221134681161
+[2017-11-08 00:00:12] Error - Already exists document
+[2017-11-08 00:00:12] Click the page - 3page
+[2017-11-08 00:00:14] Complate to parse - db7912_221134677490
+[2017-11-08 00:00:14] Error - Already exists document
+[2017-11-08 00:00:14] Complate to parse - m122341_221134655336
+[2017-11-08 00:00:14] Error - Already exists document
+[2017-11-08 00:00:15] Complate to parse - sditto_221134645852
+[2017-11-08 00:00:15] Error - Already exists document
+[2017-11-08 00:00:15] Complate to parse - wow_press_221134639966
+[2017-11-08 00:00:15] Error - Already exists document
+[2017-11-08 00:00:15] Complate to parse - tjgus2476_221134619043
+[2017-11-08 00:00:15] Error - Already exists document
+[2017-11-08 00:00:15] Complate to parse - akrudghks143_221134611686
+[2017-11-08 00:00:15] Error - Already exists document
+[2017-11-08 00:00:15] Complate to parse - korea_diary_221134463645
+[2017-11-08 00:00:15] Error - Already exists document
+[2017-11-08 00:00:16] Complate to parse - knowledgetip_221130328729
+[2017-11-08 00:00:16] Error - Already exists document
+[2017-11-08 00:00:16] Complate to parse - akrudghks143_221134582753
+[2017-11-08 00:00:16] Error - Already exists document
+[2017-11-08 00:00:16] Complate to parse - heon0909_221134568787
+[2017-11-08 00:00:16] Error - Already exists document
+[2017-11-08 00:00:16] Click the page - 4page
+[2017-11-08 00:00:18] Complate to parse - wpxka_221134563910
+[2017-11-08 00:00:18] Error - Already exists document
+[2017-11-08 00:00:18] Complate to parse - j_story93_221134094546
+[2017-11-08 00:00:18] Error - Already exists document
+[2017-11-08 00:00:18] Complate to parse - tnvlfwjd_221134414643
+[2017-11-08 00:00:18] Error - Already exists document
+[2017-11-08 00:00:18] Click the page - 5page
+[2017-11-08 00:00:20] Click the page - 6page
+[2017-11-08 00:00:21] Click the page - 7page
+[2017-11-08 00:00:23] Click the page - 8page
+[2017-11-08 00:00:24] Click the page - 9page
+[2017-11-08 00:00:26] Click the page - 10page
+[2017-11-08 00:00:28] Click the next
+[2017-11-08 00:00:28] Click the page - 11page
+[2017-11-08 00:00:29] Click the page - 12page
+[2017-11-08 00:00:31] Click the page - 13page
+[2017-11-08 00:00:33] Click the page - 14page
+[2017-11-08 00:00:34] Click the page - 15page
+[2017-11-08 00:00:36] Click the page - 16page
+[2017-11-08 00:00:37] Click the page - 17page
+[2017-11-08 00:00:39] Click the page - 18page
+[2017-11-08 00:00:41] Click the page - 19page
+[2017-11-08 00:00:42] Click the page - 20page
+[2017-11-08 00:00:44] Click the next
+[2017-11-08 00:00:44] Complate stored which 6 posts scrapped
+[2017-11-08 00:00:44] Scrapping end, Process time: 43.2647428513s

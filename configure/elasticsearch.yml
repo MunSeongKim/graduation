@@ -1,0 +1,10 @@
+cluster.name: es
+node.name: masterNode
+node.master: true
+network.host: 192.168.0.7, localhost
+http.port: 9200
+transport.tcp.port: 9300
+discovery.zen.ping.unicast.hosts: ["192.168.0.6:9301"]
+discovery.zen.minimum_master_nodes: 2
+
+
