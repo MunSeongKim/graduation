@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Origin</title>
+    <%= csrf_meta_tags %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,800" rel="stylesheet">
+	</head>
+  <body>
+    <%= yield %>
+  </body>
+	<!-- Google Map API -->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDPlCZjQ8FRUkDxEmIgLwlTXnjiTjieDUw" asynce defer ></script>
+	<%= javascript_include_tag 'application', 'data-turbolinks-track' => 'reload' %>
+</html>

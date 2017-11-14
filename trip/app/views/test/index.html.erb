@@ -1,0 +1,41 @@
+	<aside id="fh5co-aside" role="sidebar" class="text-center">
+		<div class="animate-box">
+			<form action="" method="GET" id="fh5co-subscribe" onsubmit="searchForm();">
+				<div class="form-group">
+					<div class="input-group">
+				  	<input type="text" class="form-control" id="key" name="key" placeholder="Enter the city for search">
+						<span class="input-group-btn">
+							<button type="submit" id="search" class="btn btn-primary form-control">Search</button>
+
+						<!--	<input type="submit" value="Search" class="btn btn-primary form-control">-->
+						</span>
+					</div>
+				</div>
+			</form>
+		</div>
+		<hr />
+		<h1 id="fh5co-logo" class="animate-box"><a href="/">Most Recent 10 blogs</a></h1>
+		<div class="list-group animate-box">
+			<% @result.each do |row| %>
+			<div class="list-group-item">
+				<a href="<%= row.url %>" target="_blank">
+					<div class="list-header">
+				    <img class="img-reponsive img-circle" src="<%= row.img %>" alt="..." width="32px" height="32px">
+						<span><%= row.author %></span>
+					</div>
+					<div class="list-body">
+					    <h4 class="heading"><strong><%= row.title %></strong></h4>
+							<p class="desc"><%= row.desc[0..80] %></p>
+				  </div>
+				</a>
+			</div>
+			<hr style="color:lightgray"/>
+			<% end %>
+	</aside>
+
+	<div id="map" class="animate-box"></div>
+
+
+
+
+
